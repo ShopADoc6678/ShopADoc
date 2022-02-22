@@ -1,0 +1,68 @@
+# Translation of Slider in Spanish (Spain)
+# This file is distributed under the same license as the Slider package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-09 11:01:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: es\n"
+"Project-Id-Version: Slider\n"
+
+#. Author URI of the plugin
+msgid "https://wpadvancedads.com"
+msgstr "https://wpadvancedads.com"
+
+#. Author of the plugin
+msgid "Thomas Maier"
+msgstr "Thomas Maier"
+
+#. URI of the plugin
+msgid "https://wpadvancedads.com/add-ons/slider/"
+msgstr "https://wpadvancedads.com/add-ons/slider/"
+
+#. Description of the plugin
+msgid "Create a slider from your ads."
+msgstr "Crea un slider con tus anuncios."
+
+#. Name of the plugin
+msgid "Advanced Ads – Slider"
+msgstr "Advanced Ads – Slider"
+
+#: admin/views/overview.php:3
+msgid "Visit the manual"
+msgstr "Consulta el manual"
+
+#: admin/views/overview.php:1
+msgid "Slider add-on is installed"
+msgstr "El add-on del Slider está instalado"
+
+#: admin/views/group-options.php:24
+msgid "Display ads in the slider in a random order"
+msgstr ""
+
+#: admin/views/group-options.php:16
+msgid "Random order"
+msgstr ""
+
+#: admin/views/group-options.php:12
+msgid "Pause for each ad slide in milliseconds"
+msgstr "Pausa para cada anuncio en milisegundos"
+
+#: admin/views/group-options.php:8
+msgid "Slide delay"
+msgstr "Retardo de la Diapositiva"
+
+#: classes/plugin.php:99
+msgid "Display all ads as a slider"
+msgstr "Mostrar todos los anuncios como un slider"
+
+#: classes/plugin.php:98
+msgid "Ad Slider"
+msgstr "Slider de Anuncios"
+
+#: admin/admin.php:54
+msgid "<strong>Advanced Ads – Slider</strong> is an extension for the Advanced Ads plugin. Please visit <a href=\"%s\" target=\"_blank\" >wpadvancedads.com</a> to download it for free."
+msgstr "<strong>Advanced Ads – Slider</strong> es una extensión para el plugin de Advanced Ads. Por favor, visita <a href=\"%s\" target=\"_blank\" >wpadvancedads.com</a> para descargarlo gratuitamente."

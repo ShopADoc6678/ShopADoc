@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ruleset name="AdvAds_CodeSniffer">
+	<description>Advanced Ads Coding Standards.</description>
+
+	<!-- FILES -->
+	<exclude-pattern>*/vendor/*</exclude-pattern>
+	<exclude-pattern>lib/*</exclude-pattern>
+	<exclude-pattern>classes/EDD_SL_Plugin_Updater.php</exclude-pattern>
+
+	<!-- RULE -->
+	<rule ref="./vendor/advanced-ads/build-tools/src/AdvancedAds/"/>
+</ruleset>
